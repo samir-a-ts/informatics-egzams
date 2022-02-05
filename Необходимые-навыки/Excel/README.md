@@ -283,3 +283,5 @@ c - любое значение, которое будет вставлено в
 ![Пример работы функции ЕСЛИ при истине](https://raw.githubusercontent.com/samir-a-ts/informatics-egzams/2022/Картинки/Excel/Картинка24.png)
 
 ![Пример работы функции ЕСЛИ при лжи](https://raw.githubusercontent.com/samir-a-ts/informatics-egzams/2022/Картинки/Excel/Картинка25.png)
+
+[Файл к уроку](https://github.com/samir-a-ts/informatics-egzams/tree/2022/Необходимые-навыки/Excel/Примеры/Урок3.xlsx)
